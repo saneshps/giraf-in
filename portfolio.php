@@ -107,7 +107,7 @@
         <div class="slider-text">
           <div class="swiper-wrapper">
             <div class="swiper-slide slider-text__slide">
-              <h1 class="w-100 text-center"> Portfolio </h1>
+              <h1 class="w-100 text-center"> WORKS </h1>
 
             </div>
 
