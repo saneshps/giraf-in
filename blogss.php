@@ -7,9 +7,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Check out our Blogs and get information on trending topics of Digital Marketing,Website & App Development, UI & UX Design,Ecommerce industry">
   <title> Blogs|Top Digital Marketing Agency,India|Giraf </title>
-<!-- canonical -->
-<link href="https://giraf.in/blogs.php" rel="canonical">
-<!--// canonical -->
+  <!-- canonical -->
+  <link href="https://girafcreatives.com/in/blogs.php" rel="canonical">
+  <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 
@@ -109,7 +109,7 @@
           <div class="post-slide-blog">
             <a href="the-future-of-web-development-trends-to-watch-in-2024.php">
               <div class="pic">
-              <img src="./img/blogs/The-Future-of-Web-Development-Trends-to-Watch-in-2024.jpg" alt="The Future of Web Development: Trends to Watch in 2024">
+                <img src="./img/blogs/The-Future-of-Web-Development-Trends-to-Watch-in-2024.jpg" alt="The Future of Web Development: Trends to Watch in 2024">
               </div>
             </a>
 
@@ -129,10 +129,10 @@
 
             <p class="post-description">
               <a href="the-power-of-animation-in-marketing.php">
-              2023 is quickly approaching a end, and as is customary, the end of the year
-               inspires contemplation of the past and an urge to make predictions about
-                the future It’s important to concentrate on a few concepts when it comes 
-                to professions that are always changing, like web development and the 
+                2023 is quickly approaching a end, and as is customary, the end of the year
+                inspires contemplation of the past and an urge to make predictions about
+                the future It’s important to concentrate on a few concepts when it comes
+                to professions that are always changing, like web development and the
                 new year: Let’s ask some questions ourselves.
 
               </a>

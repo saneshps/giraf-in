@@ -19,7 +19,7 @@ $result = $conn->query($sql);
   <meta name="description" content="Check out our Blogs and get information on trending topics of Digital Marketing,Website & App Development, UI & UX Design,Ecommerce industry">
   <title> Blogs|Top Digital Marketing Agency,India|Giraf </title>
   <!-- canonical -->
-  <link href="https://giraf.in/blogs.php" rel="canonical">
+  <link href="https://girafcreatives.com/in/blogs.php" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
@@ -119,7 +119,7 @@ $result = $conn->query($sql);
         if ($result->num_rows > 0) {
           while ($row = $result->fetch_assoc()) {
 
-            ?>
+        ?>
             <!-- blog-box -->
             <div class="col-xl-4 col-lg-4 col-md-6 col-12">
               <div class="post-slide-blog">
@@ -130,7 +130,7 @@ $result = $conn->query($sql);
                 </a>
 
                 <ul class="post-bar">
-              <a href="blog-details/<?php echo $row['slug']; ?>">
+                  <a href="blog-details/<?php echo $row['slug']; ?>">
                     <li><?php echo (new DateTime($row['created_at']))->format('M d, Y'); ?></li>
                   </a>
                   <a href="blog-details/<?php echo $row['slug']; ?>">
@@ -144,8 +144,8 @@ $result = $conn->query($sql);
 
 
                 <p class="post-description">
-                <a href="blog-details/<?php echo $row['slug']; ?>">
-                <span><?php echo implode(' ', array_slice(explode(' ', strip_tags($row['blog_description'])), 0, 50)) . '...'; ?></span>
+                  <a href="blog-details/<?php echo $row['slug']; ?>">
+                    <span><?php echo implode(' ', array_slice(explode(' ', strip_tags($row['blog_description'])), 0, 50)) . '...'; ?></span>
                   </a>
                 </p>
 
@@ -155,42 +155,43 @@ $result = $conn->query($sql);
 
             </div>
 
-          <?php  }}
-           ?>
-          <!-- blog-box -->
+        <?php  }
+        }
+        ?>
+        <!-- blog-box -->
 
-        </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-    <!-- =====================
+  <!-- =====================
     BLOG AREA END
     ===================== -->
 
 
 
 
-    <!-- ======================
+  <!-- ======================
     FOOTER AREA START
     ====================== -->
-    <?php include("footer.php") ?>
+  <?php include("footer.php") ?>
 
-    <!-- =====================
+  <!-- =====================
     LINES AREA START
     ===================== -->
-    <div class="wgl-body-lines">
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-    </div>
+  <div class="wgl-body-lines">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
 
-    <!-- =====================
+  <!-- =====================
     LINES AREA END
     ===================== -->
 
-    <!-- =====================
+  <!-- =====================
     FOOTER AREA END
     ===================== -->
 
@@ -200,39 +201,39 @@ $result = $conn->query($sql);
 
 
 
-    <!-- =====================
+  <!-- =====================
     JS AREA START
     ===================== -->
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
     crossorigin="anonymous"></script> -->
 
-    <!-- swiper -->
+  <!-- swiper -->
 
-    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
-    <script src="./js/main.js"></script>
-    <!-- back to top -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="./js/main.js"></script>
+  <!-- back to top -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-    <script src="./js/script.js"></script>
-    <!--// back to top -->
+  <script src="./js/script.js"></script>
+  <!--// back to top -->
 
 
 
-    <!-- video -->
-    <script src="https://dayapuram.org/FrontendAsset/js/jquery.magnific-popup.min.js"></script>
-    <script src="https://dayapuram.org/FrontendAsset/js/aos.js"></script>
-    <script src="https://dayapuram.org/FrontendAsset/js/youtube.js"></script>
-    <!-- video -->
+  <!-- video -->
+  <script src="https://dayapuram.org/FrontendAsset/js/jquery.magnific-popup.min.js"></script>
+  <script src="https://dayapuram.org/FrontendAsset/js/aos.js"></script>
+  <script src="https://dayapuram.org/FrontendAsset/js/youtube.js"></script>
+  <!-- video -->
 
-    <!-- humberger menu -->
-    <script>
+  <!-- humberger menu -->
+  <script>
     let navButton = document.querySelector(".nav-button");
 
     navButton.addEventListener("click", e => {
@@ -241,19 +242,19 @@ $result = $conn->query($sql);
       // toggle nav state
       document.body.classList.toggle("nav-visible");
     });
-    </script>
-    <!-- humberger menu -->
+  </script>
+  <!-- humberger menu -->
 
 
-    <!-- animate aos -->
-    <script>
+  <!-- animate aos -->
+  <script>
     AOS.init();
-    </script>
+  </script>
 
-    <!--// animate aos -->
+  <!--// animate aos -->
 
-    <!-- Team slider -->
-    <script>
+  <!-- Team slider -->
+  <script>
     var swiper = new Swiper(".teamSlider", {
       slidesPerView: 1,
       spaceBetween: 10,
@@ -303,12 +304,12 @@ $result = $conn->query($sql);
         }
       },
     });
-    </script>
-    <!--// Team slider -->
+  </script>
+  <!--// Team slider -->
 
-    <!-- Clients -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
-    <script>
+  <!-- Clients -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+  <script>
     $(document).ready(function() {
       $('.customer-logos').slick({
         slidesToShow: 6,
@@ -319,45 +320,45 @@ $result = $conn->query($sql);
         dots: false,
         pauseOnHover: false,
         responsive: [{
-          breakpoint: 1920,
-          settings: {
-            slidesToShow: 6
-          }
-        },
-        {
-          breakpoint: 1600,
-          settings: {
-            slidesToShow: 5
-          }
-        },
-        {
-          breakpoint: 1200,
-          settings: {
-            slidesToShow: 4
-          }
-        },
-        {
-          breakpoint: 992,
-          settings: {
-            slidesToShow: 3
-          }
-        },
-        {
-          breakpoint: 768,
-          settings: {
-            slidesToShow: 3
-          }
-        },
+            breakpoint: 1920,
+            settings: {
+              slidesToShow: 6
+            }
+          },
+          {
+            breakpoint: 1600,
+            settings: {
+              slidesToShow: 5
+            }
+          },
+          {
+            breakpoint: 1200,
+            settings: {
+              slidesToShow: 4
+            }
+          },
+          {
+            breakpoint: 992,
+            settings: {
+              slidesToShow: 3
+            }
+          },
+          {
+            breakpoint: 768,
+            settings: {
+              slidesToShow: 3
+            }
+          },
 
-        {
-          breakpoint: 520,
-          settings: {
-            slidesToShow: 2
+          {
+            breakpoint: 520,
+            settings: {
+              slidesToShow: 2
+            }
           }
-        }
-      ]
+        ]
+      });
     });
-  });
   </script>
   <!--// Clients -->
 
@@ -366,37 +367,37 @@ $result = $conn->query($sql);
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
 
   <script>
-  $(document).ready(function() {
-    $("#testimonial-slider").owlCarousel({
-      items: 1,
-      itemsDesktop: [1000, 1],
-      itemsDesktopSmall: [979, 1],
-      itemsTablet: [768, 1],
-      margin: 10,
-      pagination: false,
-      navigation: true,
-      navigationText: ["", ""],
-      autoPlay: true
+    $(document).ready(function() {
+      $("#testimonial-slider").owlCarousel({
+        items: 1,
+        itemsDesktop: [1000, 1],
+        itemsDesktopSmall: [979, 1],
+        itemsTablet: [768, 1],
+        margin: 10,
+        pagination: false,
+        navigation: true,
+        navigationText: ["", ""],
+        autoPlay: true
+      });
     });
-  });
   </script>
   <!--// testimonials -->
 
   <!-- blogs area -->
   <script>
-  var swiper = new Swiper('.blog-slider', {
-    spaceBetween: 30,
-    effect: 'fade',
-    loop: true,
-    mousewheel: {
-      invert: false,
-    },
-    // autoHeight: true,
-    pagination: {
-      el: '.blog-slider__pagination',
-      clickable: true,
-    }
-  });
+    var swiper = new Swiper('.blog-slider', {
+      spaceBetween: 30,
+      effect: 'fade',
+      loop: true,
+      mousewheel: {
+        invert: false,
+      },
+      // autoHeight: true,
+      pagination: {
+        el: '.blog-slider__pagination',
+        clickable: true,
+      }
+    });
   </script>
   <!--// blogs area -->
 
