@@ -229,7 +229,7 @@
               <div class="services-list-box serv-detail-space serv-page">
                 <a href="photography-and-video-production.php">
                   <h3> 05 </h3>
-                  <h2> Photography and Video Production </h2>
+                  <h2> Product Explanatory Videos </h2>
                   <p> Photography and videography are the best way to tell your brand
                     story the way you want it to tell it. And something very essential
                     for your website and all other marketing mediums.

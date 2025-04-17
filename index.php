@@ -208,10 +208,10 @@ $result = $conn->query($sql);
   <section class="text-loop-area">
     <div class="loop-overlay"></div>
     <div class="l">
-      Digital Marketing | Branding | Designing | Web and App Development | Photography and Video Production | Animation
+      Digital Marketing | Branding | Designing | Web and App Development | Product Explanatory Videos | Animation
     </div>
     <div class="r">
-      Digital Marketing | Branding | Designing | Web and App Development | Photography and Video Production | Animation
+      Digital Marketing | Branding | Designing | Web and App Development | Product Explanatory Videos | Animation
     </div>
   </section>
 
