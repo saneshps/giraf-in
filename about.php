@@ -9,7 +9,7 @@
   <title> Top Website & App Design,Development,Branding Agency India|About </title>
 
   <!-- canonical -->
-  <link href="https://giraf.in/about.php" rel="canonical">
+  <link href="https://girafcreatives.com/in/about.php" rel="canonical">
   <!--// canonical -->
 
   <link rel="stylesheet" href="./css/main.css">
@@ -466,21 +466,7 @@
             </div>
           </div>
           <!-- team -->
-
-          <!-- team -->
-          <div class="col-xl-3 col-lg-4 col-md-4">
-            <div class="our-team">
-              <div class="pic">
-                <img src="./img/team/Javid-khan.png" alt="Javid">
-
-              </div>
-              <div class="team-content">
-                <h3 class="title"> Javid Khan K </h3>
-                <span class="post"> Senior Laravel Developer </span>
-              </div>
-            </div>
-          </div>
-          <!-- team -->
+ 
           <!-- team -->
           <div class="col-xl-3 col-lg-4 col-md-4">
             <div class="our-team">

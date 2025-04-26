@@ -18,7 +18,7 @@ $result = $conn->query($sql);
   <meta name="description" content="Giraf is a top Digital Marketing Agency in India, providing Professional Branding, Animation,Web & App development,Designing,Photography and Videography Services">
   <title> Best Digital Marketing,Web & App Development Company,India|Giraf </title>
   <!-- canonical -->
-  <link href="https://giraf.in/index.php" rel="canonical">
+  <link href="https://girafcreatives.com/in" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
@@ -208,10 +208,10 @@ $result = $conn->query($sql);
   <section class="text-loop-area">
     <div class="loop-overlay"></div>
     <div class="l">
-      Digital Marketing | Branding | Designing | Web and App Development | Photography and Video Production | Animation
+      Digital Marketing | Branding | Designing | Web and App Development | Product Explanatory Videos | Animation
     </div>
     <div class="r">
-      Digital Marketing | Branding | Designing | Web and App Development | Photography and Video Production | Animation
+      Digital Marketing | Branding | Designing | Web and App Development | Product Explanatory Videos | Animation
     </div>
   </section>
 
@@ -699,20 +699,7 @@ $result = $conn->query($sql);
                   </div>
                   <!-- slide -->
 
-                  <!-- slide -->
-                  <div class="swiper-slide">
-                    <div class="our-team">
-                      <div class="pic">
-                        <img src="./img/team/Javid-khan.png" alt="Javid">
-
-                      </div>
-                      <div class="team-content">
-                        <h3 class="title"> Javid Khan K </h3>
-                        <span class="post"> Senior Laravel Developer </span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- slide -->
+                
 
                   <!-- slide -->
                   <div class="swiper-slide">
