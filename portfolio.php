@@ -8,7 +8,7 @@
   <meta name="description" content="Check out our Portfolio which made us the best Digital Marketing,Branding,E-commerce,Web Design & Development Company in India.Have a look at our extensive portfolio">
   <title> Digital Marketing & Web Design,Branding Company| Portfolio |Giraf </title>
   <!-- canonical -->
-  <link href="https://giraf.in/portfolio.php" rel="canonical">
+  <link href="https://girafcreatives.com/in/portfolio.php" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
@@ -107,7 +107,7 @@
         <div class="slider-text">
           <div class="swiper-wrapper">
             <div class="swiper-slide slider-text__slide">
-              <h1 class="w-100 text-center"> WORKS </h1>
+              <h1 class="w-100 text-center"> Works </h1>
 
             </div>
 

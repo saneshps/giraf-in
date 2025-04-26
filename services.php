@@ -8,7 +8,7 @@
   <meta name="description" content="Check out all our Software services ranging from Digital Marketing, website development, Branding,Animation to Photography and Videography">
   <title> Service| Digital Marketing, Branding,Web and App Development|Giraf </title>
   <!-- canonical -->
-  <link href="https://giraf.in/services.php" rel="canonical">
+  <link href="https://girafcreatives.com/in/services.php" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
@@ -229,7 +229,7 @@
               <div class="services-list-box serv-detail-space serv-page">
                 <a href="photography-and-video-production.php">
                   <h3> 05 </h3>
-                  <h2> Photography and Video Production </h2>
+                  <h2> Product Explanatory Videos </h2>
                   <p> Photography and videography are the best way to tell your brand
                     story the way you want it to tell it. And something very essential
                     for your website and all other marketing mediums.

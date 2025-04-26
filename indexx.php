@@ -7,9 +7,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Giraf is a top Digital Marketing Agency in India, providing Professional Branding, Animation,Web & App development,Designing,Photography and Videography Services">
   <title> Best Digital Marketing,Web & App Development Company,India|Giraf </title>
-<!-- canonical -->
-<link href="https://giraf.in/index.php" rel="canonical">
-<!--// canonical -->
+  <!-- canonical -->
+  <link href="https://girafcreatives.com/in/index.php" rel="canonical">
+  <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 
@@ -296,7 +296,7 @@
         <div class="box">
           <img src="./img/services/branding/Neo-Construction.jpg" alt="portfolio">
           <div class="box-content">
-          <h3 class="title">Neo Construction</h3>
+            <h3 class="title">Neo Construction</h3>
             <span class="post"> YES Machinery </span>
           </div>
           <ul class="icon">
@@ -322,8 +322,8 @@
         <div class="box">
           <img src="./img/services/branding/Keralapiravi.jpg" alt="portfolio">
           <div class="box-content">
-            <h3 class="title"> Keralapiravi  </h3>
-            <span class="post">   Poster Design </span>
+            <h3 class="title"> Keralapiravi </h3>
+            <span class="post"> Poster Design </span>
           </div>
           <ul class="icon">
             <li><a href="portfolio.php"><i class="fa fa-link"></i></a></li>
@@ -347,7 +347,7 @@
         <div class="box">
           <img src="./img/services/branding/seek.jpg" alt="portfolio">
           <div class="box-content">
-            <h3 class="title"> Seek Machines  </h3>
+            <h3 class="title"> Seek Machines </h3>
             <span class="post"> Business Card </span>
           </div>
           <ul class="icon">
@@ -360,7 +360,7 @@
           <img src="./img/services/branding/yash.jpg" alt="portfolio">
           <div class="box-content">
             <h3 class="title"> Yaash </h3>
-            <span class="post">  Design </span>
+            <span class="post"> Design </span>
           </div>
           <ul class="icon">
             <li><a href="portfolio.php"><i class="fa fa-link"></i></a></li>
@@ -1067,10 +1067,10 @@
                     <div class="col-xl-7 bloghomeSwiper-details">
                       <h2> The Future of Web Development: Trends to Watch in 2024 </h2>
                       <p> 2023 is quickly approaching a end, and as is customary, the end of the year inspires contemplation
-                         of the past and an urge to make predictions about the future It’s important to concentrate
-                          on a few concepts when it comes to professions that are always changing, like web development
-                           and the new year: Let’s ask some questions ourselves.
-                     </p>
+                        of the past and an urge to make predictions about the future It’s important to concentrate
+                        on a few concepts when it comes to professions that are always changing, like web development
+                        and the new year: Let’s ask some questions ourselves.
+                      </p>
                     </div>
                   </div>
                 </div>
