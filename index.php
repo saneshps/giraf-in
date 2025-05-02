@@ -605,24 +605,6 @@ $result = $conn->query($sql);
 
 
 
-
-
-                  <!-- slide -->
-                  <div class="swiper-slide">
-                    <div class="our-team">
-                      <div class="pic">
-                        <img src="./img/team/Safwan.jpg" alt="Safwan">
-
-                      </div>
-                      <div class="team-content">
-                        <h3 class="title"> Safwan V </h3>
-                        <span class="post"> Mobile App Developer </span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- slide -->
-
-
                   <!-- slide -->
                   <div class="swiper-slide">
                     <div class="our-team">
@@ -649,6 +631,21 @@ $result = $conn->query($sql);
                       <div class="team-content">
                         <h3 class="title"> Hanin M P </h3>
                         <span class="post"> Senior SEO Specialist </span>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- slide -->
+
+                  <!-- slide -->
+                  <div class="swiper-slide">
+                    <div class="our-team">
+                      <div class="pic">
+                        <img src="./img/team/Safwan.jpg" alt="Safwan">
+
+                      </div>
+                      <div class="team-content">
+                        <h3 class="title"> Safwan V </h3>
+                        <span class="post"> Mobile App Developer </span>
                       </div>
                     </div>
                   </div>
