@@ -611,31 +611,18 @@ $result = $conn->query($sql);
                   <div class="swiper-slide">
                     <div class="our-team">
                       <div class="pic">
-                        <img src="./img/team/anand.jpg" alt="anand">
+                        <img src="./img/team/Safwan.jpg" alt="Safwan">
 
                       </div>
                       <div class="team-content">
-                        <h3 class="title"> Anand C B </h3>
-                        <span class="post"> Mobile App Lead </span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- slide -->
-
-                  <!-- slide -->
-                  <div class="swiper-slide">
-                    <div class="our-team">
-                      <div class="pic">
-                        <img src="./img/team/shihab.jpg" alt="Shihab K Saleem">
-
-                      </div>
-                      <div class="team-content">
-                        <h3 class="title"> Shihab K Saleem </h3>
+                        <h3 class="title"> Safwan V </h3>
                         <span class="post"> Mobile App Developer </span>
                       </div>
                     </div>
                   </div>
                   <!-- slide -->
+
+
                   <!-- slide -->
                   <div class="swiper-slide">
                     <div class="our-team">
@@ -699,7 +686,7 @@ $result = $conn->query($sql);
                   </div>
                   <!-- slide -->
 
-                
+
 
                   <!-- slide -->
                   <div class="swiper-slide">
