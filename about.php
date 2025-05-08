@@ -472,6 +472,20 @@
           <div class="col-xl-3 col-lg-4 col-md-4">
             <div class="our-team">
               <div class="pic">
+                <img src="./img/team/vishnu-cm.jpg" alt="Vishnu C M">
+
+              </div>
+              <div class="team-content">
+                <h3 class="title"> Vishnu C M </h3>
+                <span class="post"> Senior Laravel Developer </span>
+              </div>
+            </div>
+          </div>
+          <!-- team -->
+          <!-- team -->
+          <div class="col-xl-3 col-lg-4 col-md-4">
+            <div class="our-team">
+              <div class="pic">
                 <img src="./img/team/safna.jpg" alt="Safna P P">
 
               </div>
