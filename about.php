@@ -496,6 +496,20 @@
             </div>
           </div>
           <!-- team -->
+          <!-- team -->
+          <div class="col-xl-3 col-lg-4 col-md-4">
+            <div class="our-team">
+              <div class="pic">
+                <img src="./img/team/sneha.jpg" alt="Sneha Rameshan">
+
+              </div>
+              <div class="team-content">
+                <h3 class="title"> Sneha Rameshan </h3>
+                <span class="post"> Front-End-Developer </span>
+              </div>
+            </div>
+          </div>
+          <!-- team -->
 
 
 
